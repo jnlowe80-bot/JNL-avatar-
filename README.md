@@ -1,2 +1,2 @@
-# JNL-avatar-
+ JNL-avatar-
 AI Avatar lead generation system
